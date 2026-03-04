@@ -16,7 +16,7 @@ Hi everyone! My name is Anggun Dwikasih, I'm an undergraduate Computer Science s
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=igundw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=igundw&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=igundw&themgit push origin maine=dark&hide_border=false&layout=compact)
+
 
 #### 🕹️ Pac-Man Contribution Graph:
 <picture>
